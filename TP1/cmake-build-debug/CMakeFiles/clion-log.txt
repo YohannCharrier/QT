@@ -1,0 +1,8 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/ychar/CLionProjects/isen/Qt/TP1
+-- Configuring done
+CMake Error in CMakeLists.txt:
+  The CXX_STANDARD property on target "TP1" contained an invalid value: "17".
+
+
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/ychar/CLionProjects/isen/Qt/TP1/cmake-build-debug
